@@ -1,1 +1,1 @@
-University u(123, "MIT", &e);
+ cout<<"In Main Object 2 "<<c2.get_Price()<<endl;

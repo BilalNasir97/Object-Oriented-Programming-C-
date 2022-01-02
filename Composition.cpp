@@ -1,6 +1,11 @@
 #include <iostream>
 #include <string>
 using namespace std;
+// In C++ Composition, an object is a part of another object. 
+// The object that is a part of another object is known as a sub-object. 
+// When a C++ Composition is destroyed, then all of its subobjects are destroyed as well. 
+// Such as when a car is destroyed, 
+// then its motor, frame, and other parts are also destroyed with it. It has a do and die relationship.
  class Location
  {
    private:

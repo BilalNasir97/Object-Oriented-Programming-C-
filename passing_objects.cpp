@@ -70,7 +70,7 @@ int main()
 {
  Car c1("Audi",100000);
  Car c2("BMW",200000);
- display(c1);
+ display(c1); // 
  display(c2);
  cout<<"In Main Object 1 "<<c1.get_Price()<<endl;
  cout<<"In Main Object 2 "<<c2.get_Price()<<endl;
